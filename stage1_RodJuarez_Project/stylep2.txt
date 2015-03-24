@@ -1,0 +1,70 @@
+/* My CSS
+*/
+h1 {
+	text-align: center;
+	color: #294860;
+}
+
+body {
+	font-family: Helvetica;
+}
+
+padding: 10px; */
+.lesson {
+	background-color: #294860;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.block {
+	background-color: #DFEAF1;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.block-L {
+	font-size: 20px;
+	margin: 8px;
+	text-align: center;
+	color: #284860;
+}
+
+.block-L-concept {
+	font-size: 20px;
+	margin: 8px;
+	text-align: center;
+	color: #294870;
+}
+
+.block-L-concept-lesson {
+	font-size: 8px;
+	text-algin: left;
+	color: #294865;
+}
+
+.block-L-concept-title {
+	font-size: 20px;
+	margin: 8px;
+	text-align: center;
+	color: #294860;
+}
+
+.block-L-concept-description {
+	font-weight: lighter;
+	margin: 6px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
